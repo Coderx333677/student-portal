@@ -51,14 +51,7 @@ main {
     padding-top: 10px;
     padding-bottom: 0px;
 }
-.footerMenu{
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    margin-bottom: 15px;
-    font-size: 10px;
-    color: rgb(234, 220, 20);
-}
+
 .SignUp{
     display: flex;
     flex-direction: column;
