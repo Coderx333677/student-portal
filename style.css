@@ -47,6 +47,7 @@ main {
     /* Outer Glow */
     border:1px solid rgb(197, 174, 44);
     box-shadow: 0 0 20px rgb(236, 230, 30);
+    padding: 50px;
     
 
 }
